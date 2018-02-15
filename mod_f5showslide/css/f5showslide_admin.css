@@ -1,0 +1,116 @@
+.f5RemoveSlideBtn, .f5UpSlideBtn, .f5DownSlideBtn, #f5FieldDivNameSlide  {
+	float: left;
+}
+.f5RemoveElementBtn, .f5UpElementBtn, .f5DownElementBtn {
+	float: left;
+}
+.f5EditElement {
+	margin-left: 50px;
+}
+.sbox-window {
+	overflow: hidden;
+}
+#sbox-btn-close {
+    right: 0;
+    top: 0;
+}
+
+.f5FieldSlideName, .f5FieldName, .f5FieldTransTimeSlide, .f5FieldOnceSlideTransType{
+	margin: 15px 15px 15px 0 !important;
+	float: left;
+}
+.f5DivElementTypeHeader .chzn-container, .f5FiedDivData .chzn-container{
+	display: none;
+	float: left;
+}
+
+.f5fielheaderDiv, .f5ElementCancelBtn > a, .f5SlideCancelBtn > a {
+	margin: 15px 15px !important;
+}
+.f5ElementCancelBtn > a, .f5SlideCancelBtn > a {
+	margin-left: 15px !important;
+	float: left;
+}
+
+label[for=f5FieldName], .f5FieldDivBackgr > label, label[for=f5FieldSlideName], label[for=f5FieldTransTimeSlide], label[for=f5FieldOnceSlideTransType], label[for=f5FieldImg], label[for=f5FieldImgVideo], label[for=f5FieldUrlVideo], label[for=f5FieldText], label[for=f5FieldHtml], label[for=f5FieldSelectVideo], label[for=f5FieldSelectFont], label[for=f5FieldWidthBackgr], label[for=f5FieldWidthHtml], label[for=f5FieldWidthImg], label[for=f5FieldWidthText], label[for=f5FieldSelectTypeFont], label[for=f5FieldWidthVideo], label[for=f5FieldPositionTopPx], label[for=f5FieldPositionLeftPx], label[for=f5FieldPositionLeftSelect], label[for=f5FieldSelectTypeIn], label[for=f5FieldSelectTypeOut], label[for=f5FieldUrlImg], label[for=f5FieldUrlBackgr], label[for=f5FieldUrlText], label[for=f5FieldOpacityBackgr], label[for=f5FieldOpacityImg], label[for=f5FieldOpacityText], label[for=f5FieldAlignText], label[for=f5FieldInTimeSlide], label[for=f5FieldSizeText], label[for=f5FieldAutoplay], label[for=f5FieldControls], label[for=f5AutoplayOnce], label[for=f5FieldAutoplayNext], label[for=f5FieldPrevImg], label[for=f5FieldRatioVideo], label[for=f5FieldImage], label[for=f5FieldColorText]{
+	float: left;
+	clear: left;
+	margin: 15px 15px 15px 0;
+	padding: 4px 6px;
+}
+label[for=f5FieldSelectType], label[for=f5FieldOnceSlideTransTime], label[for=f5FieldGoogleTypeFont], label[for=f5FieldHeightBackgr], label[for=f5FieldHeightHtml], label[for=f5FieldHeightImg], label[for=f5FieldHeightText], label[for=f5FieldHeightVideo], label[for=f5FieldInTimeTransition], label[for=f5FieldOutTimeTransition], label[for=f5FieldColorText], label[for=f5FieldVisibilityTime] {
+	float: left;
+	margin: 15px 15px 15px 0;
+	padding: 4px 6px;
+	clear: none;
+}
+.f5SaveElementBtn > a, .f5SaveSlideBtn > a, .f5SaveEditBtn > a {
+	clear: left;
+	float: left;
+	margin: 15px 0px !important;
+}
+#f5DivShowSlide .f5FieldName, #f5DivShowSlide .minicolors, #f5DivShowSlide .f5FieldTransTimeSlide, #f5DivShowSlide .f5FieldOnceSlideTransType {
+	margin: 15px 15px 15px 0;
+}
+.f5FieldSelectType, .f5FieldOnceSlideTransTime, .f5FieldImageclass, .f5FieldImgVideo, .f5FieldText, .f5FieldHtml, .f5FieldSelectVideo, .f5FieldSelectFont, .f5FieldWidthBackgr, .f5FieldWidthHtml, .f5FieldWidthImg, .f5FieldWidthText, .f5FieldSelectTypeFont, .f5FieldUrlVideo, .f5FieldWidthVideo, .f5FieldPositionLeftSelect, .f5FieldSelectTypeIn, .f5FieldPositionLeftPx, .f5FieldSelectTypeIn, .f5FieldSelectTypeOut, .f5FieldOutTimeTransition, .f5FieldUrlImg, .f5FieldUrlBackgr, .f5FieldUrlText, .f5FieldOpacityBackgr, .f5FieldOpacityImg, .f5FieldAlignText, .f5FieldOpacityText, .f5FieldPositionTopSelect, .f5FieldPositionTopPx, .f5FieldInTimeTransition, .f5FieldInTimeSlide, .f5FieldVisibilityTime, .f5FieldGoogleTypeFont, .f5FieldHeightBackgr, .f5FieldHeightHtml, .f5FieldHeightImg, .f5FieldHeightText, .f5FieldHeightVideo, .f5FieldSizeText, .f5FieldControls, .f5FieldAutoplay, .f5AutoplayOnce, .f5FieldAutoplayNext, .f5FieldPrevImg, .f5FieldRatioVideo, .f5FieldImg{
+	margin: 15px 0px !important;
+}
+.f5FieldSelectVideo, .f5FieldSelectVideo, .f5FieldWidthBackgr, .f5FieldWidthHtml, .f5FieldWidthImg, .f5FieldWidthText, .f5FieldSelectTypeFont, .f5FieldUrlVideo, .f5FieldWidthVideo, .f5FieldPositionLeftSelect, .f5FieldSelectTypeIn, .f5FieldInTimeTransition, .f5FieldPositionTopSelect, .f5FieldSelectTypeOut, .f5FieldOutTimeTransition, .f5FieldUrlImg, .f5FieldUrlBackgr, .f5FieldUrlText, .f5FieldOpacityBackgr, .f5FieldOpacityImg, .f5FieldAlignText, .f5FieldOpacityText, .f5FieldPositionTopPx, .f5FieldPositionLeftPx, .f5FieldSelectType, .f5FieldOnceSlideTransTime, .f5FieldHtml, .f5FieldInTimeSlide, .f5FieldVisibilityTime, .f5FieldGoogleTypeFont, .f5FieldHeightBackgr, .f5FieldHeightHtml, .f5FieldHeightImg, .f5FieldHeightText, .f5FieldHeightVideo, .f5FieldSizeText, .f5FieldControls, .f5FieldAutoplay, .f5AutoplayOnce, .f5FieldAutoplayNext, .f5FieldPrevImg, .f5FieldRatioVideo, .f5FieldImg, .f5FieldImgVideo{
+	float: left;
+	margin-right: 15px !important;
+}
+.f5FieldImgVideo, .f5FieldImg {
+	float: left;
+	margin-right: 2px !important;
+}
+.f5FieldDivImg, .f5FieldDivBackgr, .f5FieldDivText, .f5FieldDivVideo {
+	margin: 15px 15px 15px 0 !important;
+	clear: both;
+}
+.f5FieldDivBackgr, .f5FieldDivImg, .f5FieldDivText, .f5FieldDivHtml {
+	height: 115px;
+}
+.f5FieldDivVideo {
+	height: 420px;
+}
+
+.f5FieldsDivForm, .f5DivFields, .f5SelectTypeDiv, #f5DivElements, #f5DivItemSlide, .f5SlideHeaderBtn {
+	display: none;
+}
+.f5FieldsDivForm {
+	display: table;
+}
+.f5FieldsDivForm {
+	margin-bottom: 20px;
+}
+.f5SlideHeaderBtn {
+	margin: 10px 0;
+}
+.f5Slide {
+	margin: 0px 0px 0px 20px;
+}
+.f5SlideHeaderBtn .btn {
+	margin: 2px;
+}
+.f5Slide .btn {
+	margin: 2px;
+}
+.f5FieldDivNameSlide {
+	font-size: 1.4em;
+	font-weight: 900;
+	color: #3276b1;
+}
+.f5FieldDivText .minicolors {
+	float: left;
+}
+.minicolors-theme-bootstrap .minicolors-input {
+	width: 100px;
+}
+.btn-info {
+	margin-right: 5px;
+}
+.f5FieldText, .f5FieldHtml {
+	height: 100px;
+	width: 300px;
+}
+
