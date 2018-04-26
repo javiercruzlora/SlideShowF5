@@ -1,6 +1,5 @@
 # SlideShowF5
-Joomla Module
-
+<h2><a href="http://www.templatef5.com/index.php/en/documentation/slide-show-f5-video">Download</a> | <a href="http://www.templatef5.com/index.php/en/demo" class="dropdown-toggle" data-toggle="dropdown">Demo<span class="caret"></span></a> | <a href="http://www.templatef5.com/index.php/en/modules-english/module-slide-show-f5-2/download?path=mod_f5showslide.zip">Video</a></h2>
 <p style="text-align: justify;"><span class="s1" style="font-family: Ubuntu; font-size: 12pt;"></span><span style="font-family: Ubuntu; font-size: 14pt;">Slide Show F5 is a layer-based responsive slider, which allows to combine images, text, videos (Youtube, Vimeo and HTML5), backgrounds and custom html. It allows you to customize the display time, type and time of transition (animation) of each slide as much of each layer.</span></p>
 <p style="text-align: justify;"><span style="font-size: 14pt; font-family: Ubuntu;">Combining the many options available in this slider can be designed fantastic presentations that make more attractive our website and to allow the layer system your personal link to any URL can link it to any social network, web, article, shopping cart, etc ... that allows us to highlight and facilitate access to any content.</span></p>
 <p class="p1"><strong><span class="s1" style="font-family: Ubuntu;">LICENSE</span></strong></p>
@@ -23,7 +22,7 @@ Joomla Module
 <p style="margin-left: 30px; text-align: justify;"><span style="font-family: Ubuntu; font-size: 14pt;">Display a slider preload</span></p>
 <p style="margin-left: 30px; text-align: justify;"><span style="font-family: Ubuntu; font-size: 14pt;">Opacity slider, each slide or each slide layer</span></p>
 <p style="margin-left: 30px; text-align: justify;"><span style="font-family: Ubuntu; font-size: 14pt;">Set width and height of each layer in % of slider (in images or video just wide, the high is &nbsp;proportional)</span></p>
-<p style="margin-left: 30px; text-align: justify;"><span style="font-family: Ubuntu; font-size: 14pt;">Establish the exact vertical or horizontal position in % of the slider or predefined (up, down, vertically centered, left, right, horizontally centered)</span></p>
+<p style="margin-left: 30px; text-align: justify;"><span style="font-family: Ubuntu; font-size: 14pt;">Establish the exact vertical or horizontal position in % of the slider or predefined (up, down, vertically centered, left, right, horizontally centered)</span></p><
 <p style="margin-left: 30px; text-align: justify;"><span style="font-family: Ubuntu; font-size: 14pt;">Establish in videos an imagen preview (in Youtube and Vimeo, even can select the default picture setting to Youtube or Vimeo video), autoplay, autoplay-one and also at the end force the change slide</span></p>
 <p><strong><span style="font-family: Ubuntu; font-size: 14pt;">INSTALLATION</span></strong></p>
 <p style="text-align: justify;"><span style="font-family: Ubuntu; font-size: 14pt;">To install the module Slide Show F5 is necessary to install Joomla 3 or higher.</span></p>
